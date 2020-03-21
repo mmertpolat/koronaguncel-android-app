@@ -1,5 +1,5 @@
 ![Application Icon](https://pbs.twimg.com/media/ETpIJvPXYAEt0O8?format=jpg&name=360x360)
-
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 ![Splash Screen](https://pbs.twimg.com/media/ETpIJ4uWkAELuTD?format=jpg&name=4096x4096)
 
 ![Korona Guncel Website](https://pbs.twimg.com/media/ETpIKk9XgAISV91?format=jpg&name=large)
