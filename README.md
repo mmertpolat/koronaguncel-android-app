@@ -1,4 +1,4 @@
-<center>![Application Icon](https://pbs.twimg.com/media/ETpIJvPXYAEt0O8?format=jpg&name=360x360)</center>
+![Application Icon](https://pbs.twimg.com/media/ETpIJvPXYAEt0O8?format=jpg&name=360x360)
 
 ![Splash Screen](https://pbs.twimg.com/media/ETpIJ4uWkAELuTD?format=jpg&name=4096x4096)
 
