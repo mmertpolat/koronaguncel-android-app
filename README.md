@@ -1,7 +1,3 @@
-![Splash Screen](https://pbs.twimg.com/media/ETpIJ4uWkAELuTD?format=jpg&name=4096x4096)
-
-![Korona Guncel Website](https://pbs.twimg.com/media/ETpIKk9XgAISV91?format=jpg&name=large)
-
 This project shows to user koronaguncel.com website.
 
 ### Getting started
